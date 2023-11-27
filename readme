@@ -1,0 +1,8 @@
+Ibrahim et al, rapa-mito-nuclear
+
+The folder contains 2 datasets:
+
+1) survival data in JMP format
+2) mortality data (calculated from #1)
+
+And an R script that will recreatefigures and analyses used in the initial manuscript from the two datasets.
